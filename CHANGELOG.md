@@ -1,5 +1,11 @@
 # @cb-react/hooks
 
+## 1.1.0
+
+### Minor Changes
+
+- 8a2debe: new hook introduce: useHotkeys
+
 ## 1.0.2
 
 ### Patch Changes
